@@ -43,7 +43,7 @@ ul {
 }
 
 .images img {
-    width: 150px; /* Tamaño uniforme */
+    width: 300px; /* Tamaño aumentado */
     height: auto; /* Mantiene la proporción */
     margin: 10px;
     border: 2px solid #003366; /* Bordes azul oscuro */
